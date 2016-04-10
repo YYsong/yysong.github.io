@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Awsome Blog </title>
+    <link>http://yysong.github.io/post/</link>
+    <language>en-us</language>
+    <author>songyayong</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-04-10 13:58:45 &#43;0800 CST</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>http://yysong.github.io/post/good-to-great/</link>
+          <pubDate>Sun, 10 Apr 2016 13:58:45 CST</pubDate>
+          <author>songyayong</author>
+          <guid>http://yysong.github.io/post/good-to-great/</guid>
+          <description>&lt;p&gt;测试一下中文可不可以
+hahaha
+I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
